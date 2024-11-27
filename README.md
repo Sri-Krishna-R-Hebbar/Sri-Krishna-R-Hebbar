@@ -10,10 +10,9 @@
 [![](https://visitcount.itsvg.in/api?id=Sri-Krishna-R-Hebbar&icon=6&color=13)](https://visitcount.itsvg.in)
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <ul style="list-style-type: disc; margin-left: 20px;">
-    <li>🔭 <b>Hackathon Organizer:</b> Currently organizing a hackathon at my college, showcasing leadership and event management skills.</li>
+    <li>🧠 <b>Problem Solver:</b> Excited about tackling real-world challenges and creating impactful solutions.</li>
     <li>🚀 <b>Tech Enthusiast:</b> Passionate about exploring cutting-edge technologies and working on innovative projects.</li>
     <li>🌟 <b>Community Builder:</b> Committed to fostering a competitive and collaborative environment for tech enthusiasts.</li>
-    <li>🧠 <b>Problem Solver:</b> Excited about tackling real-world challenges and creating impactful solutions.</li>
   </ul>
   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200" alt="GIF">
 </div>
